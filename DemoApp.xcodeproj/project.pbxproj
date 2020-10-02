@@ -12,6 +12,7 @@
 		86E2AEAF2527AC7E00FF73DF /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E2AEAE2527AC7E00FF73DF /* MovieDetailsViewController.swift */; };
 		86E2AEB42527D56F00FF73DF /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E2AEB32527D56F00FF73DF /* MovieGridViewController.swift */; };
 		86E2AEB92527DD7B00FF73DF /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E2AEB82527DD7B00FF73DF /* MovieGridCell.swift */; };
+		86E2AEBE2527ED0F00FF73DF /* MovieGridDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E2AEBD2527ED0F00FF73DF /* MovieGridDetailsViewController.swift */; };
 		86FCFC94251EBCF8009D728A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FCFC93251EBCF8009D728A /* AppDelegate.swift */; };
 		86FCFC96251EBCF8009D728A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FCFC95251EBCF8009D728A /* SceneDelegate.swift */; };
 		86FCFC9B251EBCF8009D728A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86FCFC99251EBCF8009D728A /* Main.storyboard */; };
@@ -48,6 +49,7 @@
 		86E2AEAE2527AC7E00FF73DF /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		86E2AEB32527D56F00FF73DF /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		86E2AEB82527DD7B00FF73DF /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		86E2AEBD2527ED0F00FF73DF /* MovieGridDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridDetailsViewController.swift; sourceTree = "<group>"; };
 		86FCFC90251EBCF8009D728A /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86FCFC93251EBCF8009D728A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86FCFC95251EBCF8009D728A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				86FCFC93251EBCF8009D728A /* AppDelegate.swift */,
 				86FCFC95251EBCF8009D728A /* SceneDelegate.swift */,
 				86FCFC99251EBCF8009D728A /* Main.storyboard */,
+				86E2AEBD2527ED0F00FF73DF /* MovieGridDetailsViewController.swift */,
 				86E2AEB82527DD7B00FF73DF /* MovieGridCell.swift */,
 				86E2AEB32527D56F00FF73DF /* MovieGridViewController.swift */,
 				86E2AEAE2527AC7E00FF73DF /* MovieDetailsViewController.swift */,
@@ -420,6 +423,7 @@
 			files = (
 				86E2AEAF2527AC7E00FF73DF /* MovieDetailsViewController.swift in Sources */,
 				86FCFC94251EBCF8009D728A /* AppDelegate.swift in Sources */,
+				86E2AEBE2527ED0F00FF73DF /* MovieGridDetailsViewController.swift in Sources */,
 				86FCFC96251EBCF8009D728A /* SceneDelegate.swift in Sources */,
 				86FCFCD7251ED9E9009D728A /* MovieCell.swift in Sources */,
 				86FCFCD2251ED1BC009D728A /* MoviesViewController.swift in Sources */,
